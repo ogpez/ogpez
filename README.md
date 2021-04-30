@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, tech, travelling, and puppies
 - 🌱 I’m currently learning how to build a website
 - 💞️ I’m looking to collaborate on general learning to code
-- 📫 How to reach me here by providing a comment!
+- 📫 Reach me here by adding a comment!
 
 <!---
 ogpez/ogpez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
